@@ -1,0 +1,136 @@
+
+.container-colors {
+  
+  border: 1px solid black;
+  padding: 10px; 
+  margin: 10px auto;
+}
+.container-fonts {
+  
+  border: 1px solid black;
+  padding: 10px; 
+  margin: 10px auto;
+}
+.container-text-styles {
+  
+  border: 1px solid black;
+  padding: 10px; 
+  margin: 10px auto;
+}
+.aqua {
+  width: 32%;
+  min-height:100px;
+ 
+  padding: 10px; 
+  background-color:#00FFFF;
+  text-align: center;
+  margin: 20px auto;
+  display: inline-block;
+} 
+.aqua-color {
+ 
+  color: #FFFFFF;
+}
+.hex-aqua-color{
+  color: #FFFFFF;
+}
+
+.fuchsia-color{
+  background-color:#FF00FF;
+  width: 32%;
+  min-height:100px;
+  padding: 10px; 
+ 
+  text-align: center;
+  margin: 20px auto;
+  display: inline-block;
+  
+}
+.olive-color {
+  background-color:#808000;
+  width: 32%;
+  min-height:100px;
+  padding: 10px; 
+  text-align: center;
+  margin: 20px auto;
+  display: inline-block;
+}
+.teal-color {
+  background-color:#008080;
+  width: 32%;
+  min-height:100px;
+  padding: 10px; 
+  text-align: center;
+  margin: 20px auto;
+  display: inline-block;
+}
+.bitter {
+font-family: 'Bitter', serif;
+}
+.bitter-font {
+  text-decoration: underline;
+  font-family: 'Bitter', serif;
+}
+.bitter-italics {
+  font-style: italic;
+}
+.bitter-bold {
+  font-weight: bold;
+}
+.bitter-underline {
+  text-decoration: underline;
+}
+.coveat {
+  font-family: 'coveat','Space Mono', monospace;
+  display: inline-block;
+
+}
+.caveat-font {
+  text-decoration: underline;
+  font-family: 'coveat','Space Mono', monospace;
+
+}
+.caveat-italics {
+  font-style: italic;
+}
+.caveat-bold {
+  font-weight: bold;
+}
+.caveat-underline {
+  text-decoration: underline;
+}
+
+.patrick-hand{
+  font-family: 'Patrick Hand', cursive;
+}
+.patrick-hand-font {
+  text-decoration: underline;
+    font-family: 'Patrick Hand', cursive;
+}
+.patrick-hand-italics {
+  font-style: italic;
+}
+.patrick-hand-bold {
+  font-weight: bold;
+}
+.patrick-hand-underline {
+  text-decoration: underline;
+}
+.h1{
+  font-weight: bold ;
+  font-size: 26px;
+  font-family: 'caveat';
+}
+.h2{
+  font-weight: normal ;
+  font-size: 18px;
+  font-family: 'bitter';
+}
+.p{
+  font-weight: regular ;
+  font-size: 14px;
+  font-family: 'Patrick Hand';
+}
+li{
+  font-size: 15px;
+}
